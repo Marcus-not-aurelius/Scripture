@@ -1,1 +1,0 @@
-C:\Users\markd\Desktop\Scripture\expr\target\debug\libexpr.rlib: C:\Users\markd\Desktop\Scripture\expr\src\ast.rs C:\Users\markd\Desktop\Scripture\expr\src\error.rs C:\Users\markd\Desktop\Scripture\expr\src\eval.rs C:\Users\markd\Desktop\Scripture\expr\src\lib.rs C:\Users\markd\Desktop\Scripture\expr\src\parser.rs C:\Users\markd\Desktop\Scripture\expr\src\token.rs
