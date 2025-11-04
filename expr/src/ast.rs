@@ -14,11 +14,11 @@ pub enum Expr {
 pub enum BOp {
     // arithmetic
     Add, Sub, Mul, Div, Rem,
-    // comparisons
+    // comps
     Lt, Le, Gt, Ge,
     // equality
     Eq, Ne,
-    // logical
+    // logical operators
     And, Or,
 }
 
